@@ -11,7 +11,7 @@ export default function VideoShowcase() {
   const { t } = useLanguage()
 
   // YouTube video ID - Target 2.0 showcase videosu için
-  const videoId = "TARGET_2_0_VIDEO_ID" // Gerçek Target 2.0 showcase video ID'si buraya gelecek
+  const videoId = "CnxTOY2eheo" // Gerçek Target 2.0 showcase video ID'si buraya gelecek
 
   return (
     <section className="relative py-16 px-4">
@@ -81,3 +81,4 @@ export default function VideoShowcase() {
     </section>
   )
 }
+
